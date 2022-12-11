@@ -1,0 +1,44 @@
+
+.navbar {
+    
+    display: flex;
+    position: relative;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: rgb(4, 2, 7);
+    color: white;
+    padding: 10px;
+    
+}
+
+
+.onglets {
+    height: 100%;
+}
+
+.onglets ul {
+    
+    
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.onglets li {
+    margin: 0;
+    list-style: none;
+}
+
+.onglets li a {
+    
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+
+.onglets li a:hover {
+    color: #936F39;
+}
+
+
+

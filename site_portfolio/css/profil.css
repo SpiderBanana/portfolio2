@@ -1,0 +1,13 @@
+.profile {
+    margin-left: 15px;
+    background-image: url("../images/photo\ recadré-min.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid #936F39;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

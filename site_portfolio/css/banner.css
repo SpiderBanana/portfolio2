@@ -1,0 +1,41 @@
+
+section.banner{
+    
+    height: 100vh;
+    background-image: url("../images/594341.jpg");
+    
+}
+
+
+section.banner h1{
+    font-family: 'Poppins', sans-serif;
+    text-transform : uppercase;
+    font-size: 80px;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+
+}
+
+text-banner{
+    font-family: 'Poppins', sans-serif;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    padding: 90px;
+    margin: 0;
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    font-family: poppins;
+
+
+}
+
